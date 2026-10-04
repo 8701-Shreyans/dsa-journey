@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Tree Node](./LeetCode/Medium/Tree%20Node) - *Medium*
 - [Sales Person](./LeetCode/Easy/Sales%20Person) - *Easy*
 - [Classes With at Least 5 Students](./LeetCode/Easy/Classes%20With%20at%20Least%205%20Students) - *Easy*
 - [Big Countries](./LeetCode/Easy/Big%20Countries) - *Easy*
