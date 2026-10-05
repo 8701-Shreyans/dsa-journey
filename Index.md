@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Actors and Directors Who Cooperated At Least Three Times](./LeetCode/Easy/Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times) - *Easy*
 - [Swap Sex of Employees](./LeetCode/Easy/Swap%20Sex%20of%20Employees) - *Easy*
 - [Not Boring Movies](./LeetCode/Easy/Not%20Boring%20Movies) - *Easy*
 - [Biggest Single Number](./LeetCode/Easy/Biggest%20Single%20Number) - *Easy*
