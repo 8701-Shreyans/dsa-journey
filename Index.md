@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Biggest Single Number](./LeetCode/Easy/Biggest%20Single%20Number) - *Easy*
 - [Triangle Judgement](./LeetCode/Easy/Triangle%20Judgement) - *Easy*
 - [Tree Node](./LeetCode/Medium/Tree%20Node) - *Medium*
 - [Sales Person](./LeetCode/Easy/Sales%20Person) - *Easy*
