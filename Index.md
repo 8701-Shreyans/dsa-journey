@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Not Boring Movies](./LeetCode/Easy/Not%20Boring%20Movies) - *Easy*
 - [Biggest Single Number](./LeetCode/Easy/Biggest%20Single%20Number) - *Easy*
 - [Triangle Judgement](./LeetCode/Easy/Triangle%20Judgement) - *Easy*
 - [Tree Node](./LeetCode/Medium/Tree%20Node) - *Medium*
